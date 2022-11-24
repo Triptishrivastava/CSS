@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Document</title>
+    <style>
+        .red{
+            background-color: blanchedalmond;
+            color: blue;
+        }
+        #white{
+            background-color: aqua;
+        }
+        footer , span{
+             background-color: blueviolet;
+        }
+    </style>
+</head>
+<body>
+    <h3>CSS Document</h3>
+    <p id="white" class="red">This is my paragraph</p>
+    <p class="red">This is my paragraph 2</p>
+    <span>This is span</span>
+    <footer>this is footer</footer>
+</body>
+</html>
