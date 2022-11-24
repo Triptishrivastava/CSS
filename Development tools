@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Development tools</title>
+    <style>
+       p{
+        color: crimson;
+        font-style: calc();
+        background-color: blanchedalmond;
+       }
+       .bgprimary{
+        color: blue;
+       }
+    </style>
+</head>
+<body>
+    <h4 class="bgprimary">Developer Tools</h4>
+    <p>This is a tutorial for chrome development tools</p>
+</body>
+</html>
